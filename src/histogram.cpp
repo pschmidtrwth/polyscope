@@ -4,7 +4,7 @@
 #include "polyscope/affine_remapper.h"
 #include "polyscope/polyscope.h"
 
-#include "imgui.h"
+#include <imgui/imgui.h>
 
 #include <algorithm>
 #include <limits>

@@ -2,7 +2,7 @@
 #include "polyscope/color_management.h"
 
 // Use for color conversion scripts
-#include "imgui.h"
+#include <imgui/imgui.h>
 
 #include <algorithm>
 #include <cmath>

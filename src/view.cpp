@@ -4,7 +4,7 @@
 #include "polyscope/polyscope.h"
 #include "polyscope/utilities.h"
 
-#include "imgui.h"
+#include <imgui/imgui.h>
 
 #include "json/json.hpp"
 using json = nlohmann::json;

@@ -9,7 +9,7 @@
 #include "polyscope/widget.h"
 #include "polyscope/slice_plane.h"
 
-#include "imgui.h"
+#include <imgui/imgui.h>
 
 #include <functional>
 #include <map>

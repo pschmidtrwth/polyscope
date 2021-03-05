@@ -12,7 +12,7 @@
 #include "polyscope/types.h"
 #include "polyscope/view.h"
 
-#include "imgui.h"
+#include <imgui/imgui.h>
 
 namespace polyscope {
 

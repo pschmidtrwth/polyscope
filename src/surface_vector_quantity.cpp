@@ -6,7 +6,7 @@
 #include "polyscope/render/engine.h"
 #include "polyscope/trace_vector_field.h"
 
-#include "imgui.h"
+#include <imgui/imgui.h>
 
 #include <complex>
 #include <fstream>

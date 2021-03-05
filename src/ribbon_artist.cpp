@@ -5,7 +5,7 @@
 #include "polyscope/render/color_maps.h"
 #include "polyscope/render/engine.h"
 
-#include "imgui.h"
+#include <imgui/imgui.h>
 
 using std::cout;
 using std::endl;

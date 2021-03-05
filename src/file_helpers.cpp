@@ -1,7 +1,7 @@
 // Copyright 2017-2019, Nicholas Sharp and the Polyscope contributors. http://polyscope.run.
 #include "polyscope/file_helpers.h"
 
-#include "imgui.h"
+#include <imgui/imgui.h>
 #include "polyscope/polyscope.h"
 
 namespace polyscope {

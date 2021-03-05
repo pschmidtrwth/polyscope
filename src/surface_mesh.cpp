@@ -6,7 +6,7 @@
 #include "polyscope/polyscope.h"
 #include "polyscope/render/engine.h"
 
-#include "imgui.h"
+#include <imgui/imgui.h>
 
 #include <unordered_map>
 #include <utility>

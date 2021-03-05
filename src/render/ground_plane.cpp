@@ -5,7 +5,7 @@
 #include "polyscope/render/engine.h"
 #include "polyscope/render/material_defs.h"
 
-#include "imgui.h"
+#include <imgui/imgui.h>
 #include "stb_image.h"
 
 namespace polyscope {

@@ -4,7 +4,7 @@
 #include "polyscope/render/colormap_defs.h"
 #include "polyscope/render/engine.h"
 
-#include "imgui.h"
+#include <imgui/imgui.h>
 
 namespace polyscope {
 

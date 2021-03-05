@@ -6,7 +6,7 @@
 #include <iostream>
 #include <thread>
 
-#include "imgui.h"
+#include <imgui/imgui.h>
 
 #include "polyscope/pick.h"
 #include "polyscope/render/engine.h"

@@ -3,7 +3,7 @@
 
 #include "polyscope/polyscope.h"
 
-#include "imgui.h"
+#include <imgui/imgui.h>
 
 namespace polyscope {
 

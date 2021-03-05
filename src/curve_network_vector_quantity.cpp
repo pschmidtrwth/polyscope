@@ -4,7 +4,7 @@
 #include "polyscope/file_helpers.h"
 #include "polyscope/polyscope.h"
 
-#include "imgui.h"
+#include <imgui/imgui.h>
 
 #include <complex>
 #include <fstream>

@@ -10,7 +10,7 @@
 #include "polyscope/point_cloud_scalar_quantity.h"
 #include "polyscope/point_cloud_vector_quantity.h"
 
-#include "imgui.h"
+#include <imgui/imgui.h>
 
 #include <fstream>
 #include <iostream>

@@ -1,5 +1,5 @@
 // Copyright 2017-2019, Nicholas Sharp and the Polyscope contributors. http://polyscope.run.
-#include "imgui.h"
+#include <imgui/imgui.h>
 
 #include "polyscope/messages.h"
 
